@@ -30,9 +30,6 @@
   <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats-mu-pearl.vercel.app/api?username=dewhurstwill&show_icons=true&hide_border=true" />
 </details>
 
-<br />
-<br />
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
