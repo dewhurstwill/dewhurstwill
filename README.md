@@ -39,6 +39,12 @@
   <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats-mu-pearl.vercel.app/api?username=dewhurstwill&show_icons=true&hide_border=true" />
 </details>
 
+<details>
+  <summary>:zap: Most used languages</summary>
+  
+  <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewhurstwill")](https://github.com/dewhurstwill/github-readme-stats) />
+</details>
+
 [twitter]: https://twitter.com/dewhurstwill
 [instagram]: https://instagram.com/dewhurstwill
 [linkedin]: https://linkedin.com/in/willdewhurst
