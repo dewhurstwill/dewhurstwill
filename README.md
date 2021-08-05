@@ -34,6 +34,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6](https://github.com/dickydoouk/tp-link-tapo-connect/issues/6) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
+2. 💪 Opened PR [#7](https://github.com/dickydoouk/tp-link-tapo-connect/pull/7) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
   <!--END_SECTION:activity-->
 </details>
 
