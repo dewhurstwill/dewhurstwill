@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: Most used languages</summary>
   
-  <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewhurstwill")](https://github.com/dewhurstwill/github-readme-stats) />
+  <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewhurstwill"/>
 </details>
 
 [twitter]: https://twitter.com/dewhurstwill
