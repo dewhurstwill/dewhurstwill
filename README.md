@@ -25,18 +25,18 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats-mu-pearl.vercel.app/api?username=dewhurstwill&show_icons=true&hide_border=true" />
-</details>
-
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/dickydoouk/tp-link-tapo-connect/issues/6) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
 2. 💪 Opened PR [#7](https://github.com/dickydoouk/tp-link-tapo-connect/pull/7) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
   <!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="dewhurstwill's GitHub Stats" src="https://github-readme-stats-mu-pearl.vercel.app/api?username=dewhurstwill&show_icons=true&hide_border=true" />
 </details>
 
 [twitter]: https://twitter.com/dewhurstwill
