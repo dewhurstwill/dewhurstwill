@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1242](https://github.com/Azure/application-gateway-kubernetes-ingress/issues/1242) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
-2. 🗣 Commented on [#6](https://github.com/dickydoouk/tp-link-tapo-connect/issues/6) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
+1. 💪 Opened PR [#1252](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1252) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
+2. 🗣 Commented on [#1242](https://github.com/Azure/application-gateway-kubernetes-ingress/issues/1242) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
   <!--END_SECTION:activity-->
 </details>
 
