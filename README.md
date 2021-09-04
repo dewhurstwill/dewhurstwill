@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1252](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1252) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
-2. 🗣 Commented on [#1242](https://github.com/Azure/application-gateway-kubernetes-ingress/issues/1242) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
+1. 💪 Opened PR [#1](https://github.com/hfiorillo/ums-crud-api/pull/1) in [hfiorillo/ums-crud-api](https://github.com/hfiorillo/ums-crud-api)
+2. 💪 Opened PR [#1252](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1252) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
   <!--END_SECTION:activity-->
 </details>
 
