@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/hfiorillo/ums-crud-api/pull/1) in [hfiorillo/ums-crud-api](https://github.com/hfiorillo/ums-crud-api)
-2. 💪 Opened PR [#1252](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1252) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
+1. 🎉 Merged PR [#1](https://github.com/dewhurstwill/az-tenant-lookup-frontend/pull/1) in [dewhurstwill/az-tenant-lookup-frontend](https://github.com/dewhurstwill/az-tenant-lookup-frontend)
+2. 💪 Opened PR [#1](https://github.com/dewhurstwill/az-tenant-lookup-frontend/pull/1) in [dewhurstwill/az-tenant-lookup-frontend](https://github.com/dewhurstwill/az-tenant-lookup-frontend)
   <!--END_SECTION:activity-->
 </details>
 
