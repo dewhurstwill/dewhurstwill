@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dewhurstwill/az-tenant-lookup-frontend/pull/1) in [dewhurstwill/az-tenant-lookup-frontend](https://github.com/dewhurstwill/az-tenant-lookup-frontend)
-2. 💪 Opened PR [#1](https://github.com/dewhurstwill/az-tenant-lookup-frontend/pull/1) in [dewhurstwill/az-tenant-lookup-frontend](https://github.com/dewhurstwill/az-tenant-lookup-frontend)
+1. 🗣 Commented on [#1201](https://github.com/Azure/application-gateway-kubernetes-ingress/issues/1201) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
+2. 🗣 Commented on [#1247](https://github.com/Azure/application-gateway-kubernetes-ingress/issues/1247) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
   <!--END_SECTION:activity-->
 </details>
 
