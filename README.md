@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/dickydoouk/tp-link-tapo-connect/issues/11) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
-2. 💪 Opened PR [#12](https://github.com/dickydoouk/tp-link-tapo-connect/pull/12) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
+1. 🗣 Commented on [#11](https://github.com/bytesbay/web3-token/issues/11) in [bytesbay/web3-token](https://github.com/bytesbay/web3-token)
+2. 💪 Opened PR [#11](https://github.com/bytesbay/web3-token/pull/11) in [bytesbay/web3-token](https://github.com/bytesbay/web3-token)
   <!--END_SECTION:activity-->
 </details>
 
