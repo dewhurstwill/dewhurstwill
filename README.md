@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/bytesbay/web3-token/issues/11) in [bytesbay/web3-token](https://github.com/bytesbay/web3-token)
-2. 💪 Opened PR [#11](https://github.com/bytesbay/web3-token/pull/11) in [bytesbay/web3-token](https://github.com/bytesbay/web3-token)
+1. 🗣 Commented on [#1733](https://github.com/nestjs/graphql/issues/1733) in [nestjs/graphql](https://github.com/nestjs/graphql)
+2. 🗣 Commented on [#11](https://github.com/bytesbay/web3-token/issues/11) in [bytesbay/web3-token](https://github.com/bytesbay/web3-token)
   <!--END_SECTION:activity-->
 </details>
 
