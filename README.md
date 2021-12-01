@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1733](https://github.com/nestjs/graphql/issues/1733) in [nestjs/graphql](https://github.com/nestjs/graphql)
-2. 🗣 Commented on [#11](https://github.com/bytesbay/web3-token/issues/11) in [bytesbay/web3-token](https://github.com/bytesbay/web3-token)
+1. 💪 Opened PR [#14418](https://github.com/hashicorp/terraform-provider-azurerm/pull/14418) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
+2. ❗️ Opened issue [#14417](https://github.com/hashicorp/terraform-provider-azurerm/issues/14417) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
   <!--END_SECTION:activity-->
 </details>
 
