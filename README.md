@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14417](https://github.com/hashicorp/terraform-provider-azurerm/issues/14417) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
-2. 💪 Opened PR [#14418](https://github.com/hashicorp/terraform-provider-azurerm/pull/14418) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
+1. ❗️ Opened issue [#84767](https://github.com/MicrosoftDocs/azure-docs/issues/84767) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. ❗️ Closed issue [#14417](https://github.com/hashicorp/terraform-provider-azurerm/issues/14417) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
   <!--END_SECTION:activity-->
 </details>
 
