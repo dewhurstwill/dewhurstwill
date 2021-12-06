@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#84767](https://github.com/MicrosoftDocs/azure-docs/issues/84767) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. ❗️ Closed issue [#14417](https://github.com/hashicorp/terraform-provider-azurerm/issues/14417) in [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm)
+1. 💪 Opened PR [#1](https://github.com/cw1o/kcctl/pull/1) in [cw1o/kcctl](https://github.com/cw1o/kcctl)
+2. ❗️ Opened issue [#84767](https://github.com/MicrosoftDocs/azure-docs/issues/84767) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
   <!--END_SECTION:activity-->
 </details>
 
