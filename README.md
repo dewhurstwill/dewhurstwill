@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cw1o/kcctl/pull/1) in [cw1o/kcctl](https://github.com/cw1o/kcctl)
-2. ❗️ Opened issue [#84767](https://github.com/MicrosoftDocs/azure-docs/issues/84767) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+1. 🗣 Commented on [#15](https://github.com/dickydoouk/tp-link-tapo-connect/issues/15) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
+2. 🗣 Commented on [#13](https://github.com/dickydoouk/tp-link-tapo-connect/issues/13) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
   <!--END_SECTION:activity-->
 </details>
 
