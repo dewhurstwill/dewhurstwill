@@ -28,8 +28,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/dickydoouk/tp-link-tapo-connect/issues/13) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
-2. 🗣 Commented on [#15](https://github.com/dickydoouk/tp-link-tapo-connect/issues/15) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
+1. 💪 Opened PR [#2](https://github.com/tailwindtoolbox/Rainblur-Landing-Page/pull/2) in [tailwindtoolbox/Rainblur-Landing-Page](https://github.com/tailwindtoolbox/Rainblur-Landing-Page)
+2. 🗣 Commented on [#13](https://github.com/dickydoouk/tp-link-tapo-connect/issues/13) in [dickydoouk/tp-link-tapo-connect](https://github.com/dickydoouk/tp-link-tapo-connect)
   <!--END_SECTION:activity-->
 </details>
 
