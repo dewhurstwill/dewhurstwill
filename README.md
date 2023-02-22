@@ -1,4 +1,4 @@
-### Hi there, I'm Will 👋 Welcome to my GitHub.
+### Hi there, I'm Will <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Welcome to my GitHub.
 
 ### Connect with me:
 
